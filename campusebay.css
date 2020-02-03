@@ -1,0 +1,263 @@
+body
+{
+	
+	margin:40px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+#rj1
+{
+	padding:25px;
+	background-color:#ADFF2F;
+}
+#rj11
+{
+	font-size:40px;
+	padding:20px;
+    /*margin-left:40px;*/
+}
+#rj12
+{
+	font-size:20px;
+	padding:20px;
+    float:right;
+	border-left:3px dotted black;
+	/*margin-right:40px;*/
+	height:15px;
+}
+#rj21
+{
+	float:left;
+	display:inline-block;
+	padding:30px;
+	line-height:60px;
+	font-size:20px;
+	background-color:#FFD700;
+	margin-top:1px;
+}
+#rj22
+{
+	margin-top:1px;
+	float:right;
+    display:inline-block;
+	padding:30px;
+	line-height:60px;
+	font-size:20px;
+	background-color:#FFD700;
+	
+}
+#forli1
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:15px;
+	background-color:#7FFFD4;
+}
+#forli2
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli3
+{
+	
+    text-align:justify;
+	padding:120px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli4
+{
+	
+    text-align:justify;
+	padding:90px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli5
+{
+	
+    text-align:justify;
+	padding:120px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli6
+{
+	
+    text-align:justify;
+	padding:100px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli7
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli71
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli72
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli73
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli74
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli75
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forvis
+{
+	padding:200px;
+	background-image:url("kids.jpg");
+	background-size: 70% 94%;
+	background-position:center;
+}
+#rj3
+{
+	text-align:justify;
+	line-height:30px;
+	font-size:20px;
+	padding:25px;
+	background-color:#ADFF2F;
+}
+
+#forli8
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli81
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli82
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli83
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli84
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}#forli85
+{
+	
+    text-align:justify;
+	padding:70px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli9
+{
+	
+    text-align:justify;
+	padding:120px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#forli10
+{
+	
+    text-align:justify;
+	padding:160px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#auth1
+{
+	
+    text-align:justify;
+	padding:160px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#auth2
+{
+	
+    text-align:justify;
+	padding:160px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+#auth3
+{
+	
+    text-align:justify;
+	padding:160px;
+	line-height:30px;
+	font-size:20px;
+	background-color:#7FFFD4;
+}
+}
